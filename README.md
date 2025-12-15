@@ -59,3 +59,5 @@ Bu proje, bir şirkete gelen binlerce e-postanın otomatik olarak spam/ham (iste
 | **NLTK** | Doğal Dil İşleme | 3.8+ |
 | **Matplotlib** | Görselleştirme | 3.7+ |
 | **Seaborn** | İstatistiksel görselleştirme | 0.12+ |
+
+ proje raporu beyza.docx içerisinde yer almaktadır
