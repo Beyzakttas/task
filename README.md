@@ -59,12 +59,3 @@ Bu proje, bir şirkete gelen binlerce e-postanın otomatik olarak spam/ham (iste
 | **NLTK** | Doğal Dil İşleme | 3.8+ |
 | **Matplotlib** | Görselleştirme | 3.7+ |
 | **Seaborn** | İstatistiksel görselleştirme | 0.12+ |
-
----
-
-## ⚡ Kurulum
-
-### 1. Repository'yi Klonla
-```bash
-git clone https://github.com/kullanici-adi/spam-detection.git
-cd spam-detection
